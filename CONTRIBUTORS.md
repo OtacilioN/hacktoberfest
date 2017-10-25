@@ -16667,3 +16667,8 @@ to explore life. Also, Python and Django Developer
 - Place: Rafael Calzada, Buenos Aires, Argentina
 - Bio: Software Developer, Student at Universidad de Buenos Aires
 - GitHub: [fedesassone](https://github.com/fedesassone)
+
+#### Name: [Otacilio Saraiva Maia Neto](https://github.com/fedesassone)
+- Place: Recife, Pernambuco, Brasil
+- Bio: Control and Automation student
+- GitHub: [OtacilioN](https://github.com/OtacilioN)
